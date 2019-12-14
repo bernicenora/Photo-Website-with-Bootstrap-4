@@ -318,6 +318,19 @@ background:#151F20
 }
 /* End of Contact*/
 
+/*Footer */
+.footer-link{
+  color:#eee;
+  font-size:13px;
+  transition: all 0.5s;
+}
+
+.footer-link:hover{
+  color:#70aed2;
+  text-decoration:none;
+}
+/* End of Footer */
+
 
 
 
